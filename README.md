@@ -4,8 +4,6 @@ Olá! Seja bem-vindo(a) ao projeto "Events"! Agradeço por estar aqui!
 Este projeto foi criado utilizando o Laravel, com o objetivo de aprimorar minhas habilidades no framework. Neste projeto os usuários podem adicionar eventos sobre uma variedade de assuntos, visualizá-los e confirmar sua participação em eventos de outros usuários. Além disso, é possível editar, remover eventos e cancelar inscrições. O sistema é completo, aproveitando as tecnologias oferecidas pelo Laravel.
 
 ## Passos para Utilizar:
-Aqui está uma sequência de passos para utilizar seu projeto:
-
 1. **Configurar as credenciais do banco de dados:**
    - Abra o arquivo `.env` na raiz do projeto.
    - Nas linhas 22 a 27, configure as credenciais do banco de dados conforme necessário. Por exemplo, defina o nome do banco de dados, o usuário e a senha.
