@@ -28,4 +28,3 @@ Certifique-se de seguir cada passo com cuidado para garantir que o projeto funci
 
 ## Créditos
 Desenvolvi este projeto durante o curso "Curso Laravel", ministrado por Matheus Battisti, disponibilizado no canal "Matheus Battisti - Hora de Codar" no YouTube.
-link do repositório: https://github.com/matheusbattisti/curso_laravel
