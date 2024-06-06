@@ -26,5 +26,5 @@ Este projeto foi criado utilizando o Laravel, com o objetivo de aprimorar minhas
 
 Certifique-se de seguir cada passo com cuidado para garantir que o projeto funcione conforme esperado. Se surgirem problemas, verifique as configurações do banco de dados e os arquivos de migração para garantir que tudo esteja configurado corretamente.
 
-## Créditos
+##
 Desenvolvi este projeto durante o curso "Curso Laravel", ministrado por Matheus Battisti, disponibilizado no canal "Matheus Battisti - Hora de Codar" no YouTube.
